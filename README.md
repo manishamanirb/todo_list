@@ -38,7 +38,8 @@ Concepts Used:
 - Exception handling
 - User input and output
 
-GitHub repository link :
+GitHub repository link :https://github.com/manishamanirb/todo_list
+
 Internship
 
 Organization: CodeOrbit Tech
